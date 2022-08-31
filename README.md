@@ -1,1 +1,3 @@
 # visualiser
+
+- [ ] check streak
