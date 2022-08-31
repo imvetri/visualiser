@@ -29,3 +29,18 @@ Given facts, monitor is single dimesion (dark) monitor is two dimension (height 
 Stop chit chatting and get to the point - 
 
 Write the "Connect the dots, millions dude" program.
+
+
+## Next step - 
+
+Dream, It transforms to thoughts, Thoughts to action - Abdul.
+
+Looks outside, it dreams, looks inside, it awakes - Rumi.
+
+Seek, you shall find - Bible.
+
+Trace the control flow, label it. - Victor.
+
+## Next step -
+
+Generate control flow.
