@@ -43,4 +43,9 @@ Trace the control flow, label it. - Victor.
 
 ## Next step -
 
+trap computer instruction calls,
+feed it to three dee space,
+build an interface to connect dots.
+
+test - ok
 Generate control flow.
